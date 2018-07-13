@@ -5,3 +5,4 @@ eureka:
   instance:
     hostname: localhost
 yahoostock: tiwa
+conf2: yes
